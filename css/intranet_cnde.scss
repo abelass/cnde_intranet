@@ -1,0 +1,8 @@
+@import 'css/cnde_intranet_variables';
+
+.c-layout-header.c-layout-header-6 .c-navbar {
+	background-color: $colorNavigation;
+	.c-mega-menu > .nav.navbar-nav > li > .c-link {
+		background-color: $colorNavigation;
+	}
+}

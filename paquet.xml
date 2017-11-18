@@ -8,7 +8,7 @@
 	documentation=""
 >
 
-	<nom>CNDE </nom>
+	<nom>CNDE Intranet</nom>
 	<!-- Intranet pour la CNDE -->
 
 	<!-- cette balise peut être présente plusieurs fois s'il y a plusieurs auteurs -->
@@ -17,6 +17,7 @@
 	<licence>GNU/GPL</licence>
 
 	<necessite nom="cnde" compatibilite="[1.0.0;]" />
+	<necessite nom="intranet" compatibilite="[0.7.2;]" />
 
 	<pipeline nom="autoriser" inclure="cnde_intranet_autorisations.php" />
 
