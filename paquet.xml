@@ -1,7 +1,7 @@
 <paquet
 	prefix="cnde_intranet"
 	categorie="squelette"
-	version="1.0.0"
+	version="1.0.1"
 	etat="dev"
 	compatibilite="[3.2.0;3.2.*]"
 	logo="prive/themes/spip/images/cnde_intranet-64.png"
