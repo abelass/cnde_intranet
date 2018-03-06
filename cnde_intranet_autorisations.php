@@ -3,7 +3,7 @@
  * Définit les autorisations du plugin CNDE 
  *
  * @plugin     CNDE 
- * @copyright  2017
+ * @copyright  2017 - 2018
  * @author     Rainer Müller
  * @licence    GNU/GPL
  * @package    SPIP\Cnde_intranet\Autorisations

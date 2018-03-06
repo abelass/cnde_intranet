@@ -1,9 +1,9 @@
 <?php
 /**
- * Utilisations de pipelines par CNDE 
+ * Utilisations de pipelines par CNDE
  *
- * @plugin     CNDE 
- * @copyright  2017
+ * @plugin     CNDE
+ * @copyright  2017 - 2018
  * @author     Rainer Müller
  * @licence    GNU/GPL
  * @package    SPIP\Cnde_intranet\Pipelines
