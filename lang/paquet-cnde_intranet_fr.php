@@ -9,6 +9,6 @@ $GLOBALS[$GLOBALS['idx_lang']] = array(
 
 	// C
 	'cnde_intranet_description' => '',
-	'cnde_intranet_nom' => 'CNDE ',
+	'cnde_intranet_nom' => 'CNDE Intranet',
 	'cnde_intranet_slogan' => 'Intranet pour la CNDE',
 );
