@@ -1,25 +1,25 @@
 <paquet
-	prefix="cnde_intranet"
-	categorie="squelette"
-	version="1.0.1"
-	etat="test"
-	compatibilite="[3.2.0;3.2.*]"
-	logo="prive/themes/spip/images/cnde_intranet-64.png"
-	documentation=""
+  prefix="cnde_intranet"
+  categorie="squelette"
+  version="2.0.0"
+  etat="test"
+  compatibilite="[4.0.0;4.0.*]"
+  logo="prive/themes/spip/images/cnde_intranet-64.png"
+  documentation=""
 >
 
-	<nom>CNDE Intranet</nom>
-	<!-- Intranet pour la CNDE -->
+  <nom>CNDE Intranet</nom>
+  <!-- Intranet pour la CNDE -->
 
-	<!-- cette balise peut être présente plusieurs fois s'il y a plusieurs auteurs -->
-	<auteur lien='https://websimple.be'>Rainer Müller</auteur>
+  <!-- cette balise peut être présente plusieurs fois s'il y a plusieurs auteurs -->
+  <auteur lien='https://web-simple.eu'>Rainer Müller</auteur>
 
-	<licence>GNU/GPL</licence>
+  <licence>GNU/GPL</licence>
 
-	<necessite nom="cnde" compatibilite="[1.0.0;]" />
-	<necessite nom="intranet" compatibilite="[0.7.2;]" />
+  <necessite nom="cnde" compatibilite="[2.0.0;]" />
+  <necessite nom="intranet" compatibilite="[0.7.4;]" />
 
-	<pipeline nom="autoriser" inclure="cnde_intranet_autorisations.php" />
+  <pipeline nom="autoriser" inclure="cnde_intranet_autorisations.php" />
 
 
 </paquet>
